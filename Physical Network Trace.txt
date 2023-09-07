@@ -1,0 +1,70 @@
+Physical Network Trace
+
+Chala Chalasani
+
+1)	 Destination Domain: Zara.com
+
+2)	I use the website I’m going to trace for online shopping and whenever I am bored I like to scroll on it to keep me entertained.
+
+
+PING zara.com (23.44.201.42): 56 data bytes
+64 bytes from 23.44.201.42: icmp_seq=0 ttl=54 time=8.180 ms
+64 bytes from 23.44.201.42: icmp_seq=1 ttl=54 time=5.980 ms
+64 bytes from 23.44.201.42: icmp_seq=2 ttl=54 time=10.503 ms
+64 bytes from 23.44.201.42: icmp_seq=3 ttl=54 time=56.679 ms
+64 bytes from 23.44.201.42: icmp_seq=4 ttl=54 time=100.611 ms
+64 bytes from 23.44.201.42: icmp_seq=5 ttl=54 time=141.795 ms
+64 bytes from 23.44.201.42: icmp_seq=6 ttl=54 time=185.316 ms
+64 bytes from 23.44.201.42: icmp_seq=7 ttl=54 time=231.725 ms
+64 bytes from 23.44.201.42: icmp_seq=8 ttl=54 time=279.153 ms
+
+IP addresses:
+
+1)	te0-1-0-1.rcr24.jfk01.atlas.cogentco.com (38.122.9.25)  7.391 ms  7.915 ms  7.435 ms
+New York.png
+ 
+
+2)	be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.743 ms  8.091 ms  7.789 ms
+New York.png
+ 
+
+3)	be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  8.085 ms  7.662 ms  7.595 ms
+ New York.png
+
+4)  * * *
+5) ae18.cs2.lga5.us.zip.zayo.com (64.125.25.58)  80.294 ms  8.963 ms  7.647 ms 
+New York.png
+
+ 
+6) ae32.mpr1.ewr2.us.zip.zayo.com (64.125.28.111)  8.044 ms  7.470 ms  6.864 ms
+Piscataway.png
+
+
+7) robmartinart.com (208.184.2.173)  22.160 ms  427.766 ms  12.881 ms
+Denver.png
+
+ 
+8)  * * *
+9)  * * *
+10)  * * *
+11)  a23-44-201-42.deploy.static.akamaitechnologies.com (23.44.201.42)  61.435 ms  9.125 ms  6.557 ms
+Secaucus.png
+
+ 
+Something specific to the place:
+
+New York City, NY – Empire State Building
+Empire State.jpeg
+https://www.cuddlynest.com/blog/facts-about-new-york/#:~:text=Vibrant%20and%20exciting%2C%20New%20York,and%20the%20Empire%20State%20Building.
+
+Piscataway, NJ – Home to the first 4th of July celebration
+4th of July.jpeg
+https://www.piscatawaynj.org/about_piscataway/index.php#:~:text=Piscataway%20is%20home%20to%20a,as%20well%20as%20SHI%20Stadium.&text=Did%20you%20know%20that%20on,national%20Fourth%20of%20July%20celebration%3F
+
+Denver, CO – The first permanent building was a saloon
+Saloon.jpeg
+https://travellemming.com/denver-facts/#:~:text=Denver%20FAQs-,What%20is%20unique%20about%20Denver%3F,Mountains%20looming%20in%20the%20background.
+
+Secaucus, NJ – Known for its pig farms
+Pig Farms.jpeg
+https://kids.kiddle.co/Secaucus,_New_Jersey#:~:text=Secaucus%20was%20originally%20an%20agricultural,outnumbered%20humans%2016%20to%201.
